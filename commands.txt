@@ -1,1 +1,2 @@
 threads, 10, 0
+insert,Richard Garriot,40000
