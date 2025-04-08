@@ -11,9 +11,6 @@ void Sorter(const char *operation, const char *name, int value) {
            operation, name, value);
 }
 
-
-
-
 int main() {
     
     FILE *inpfile, *outputfile;
